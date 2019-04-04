@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/CrimeAnalyzer.exe
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/bin/Debug/CrimeAnalyzer.pdb
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.exe
+/Users/JohnWilliams/Documents/IT2040/CrimeAnalyzer/CrimeAnalyzer/obj/x86/Debug/CrimeAnalyzer.pdb
